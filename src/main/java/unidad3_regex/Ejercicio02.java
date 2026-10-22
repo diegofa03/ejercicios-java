@@ -1,4 +1,4 @@
-package unidad3_expresiones_regulares;
+package unidad3_regex;
 
 public class Ejercicio02 {
     public static void main(String[] args) {
